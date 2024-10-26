@@ -1,0 +1,4 @@
+/Bluetooth/bin/
+*.exe.WebView2/
+Bluetooth/bin/
+Bluetooth/obj/

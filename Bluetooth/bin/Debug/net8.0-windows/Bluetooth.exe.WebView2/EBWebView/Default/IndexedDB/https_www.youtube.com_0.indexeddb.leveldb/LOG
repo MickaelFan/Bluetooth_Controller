@@ -1,0 +1,33 @@
+2024/10/26-22:54:16.181 4314 Reusing MANIFEST C:\Users\Mickaël\OneDrive\Bureau\c#_\Bluetooth-Controller\Bluetooth\bin\Debug\net8.0-windows\Bluetooth.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/26-22:54:16.182 4314 Recovering log #3
+2024/10/26-22:54:16.187 4314 Reusing old log C:\Users\Mickaël\OneDrive\Bureau\c#_\Bluetooth-Controller\Bluetooth\bin\Debug\net8.0-windows\Bluetooth.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/10/26-22:54:19.225 1280 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:24.347 3098 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:25.065 1e6c Level-0 table #5: started
+2024/10/26-22:54:25.983 1e6c Level-0 table #5: 293999 bytes OK
+2024/10/26-22:54:26.818 1e6c Delete type=0 #3
+2024/10/26-22:54:26.818 1e6c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:27.211 1e6c Level-0 table #7: started
+2024/10/26-22:54:27.483 1e6c Level-0 table #7: 3763 bytes OK
+2024/10/26-22:54:28.082 1e6c Delete type=0 #4
+2024/10/26-22:54:28.082 1e6c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:28.082 1e6c Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 2941 : 1
+2024/10/26-22:54:28.082 1e6c Compacting 1@1 + 1@2 files
+2024/10/26-22:54:28.912 1e6c Generated table #8@1: 356 keys, 23362 bytes
+2024/10/26-22:54:28.912 1e6c Compacted 1@1 + 1@2 files => 23362 bytes
+2024/10/26-22:54:29.411 1e6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/26-22:54:29.412 4314 Level-0 table #10: started
+2024/10/26-22:54:29.875 4314 Level-0 table #10: 1709 bytes OK
+2024/10/26-22:54:30.130 4314 Delete type=0 #6
+2024/10/26-22:54:30.131 734 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:30.131 4314 Manual compaction at level-1 from '\x00\x10\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 2941 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:30.131 4314 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:30.132 4468 Manual compaction at level-1 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 3097 : 0
+2024/10/26-22:54:30.132 4468 Compacting 1@1 + 1@2 files
+2024/10/26-22:54:30.388 4468 Generated table #11@1: 289 keys, 20364 bytes
+2024/10/26-22:54:30.388 4468 Compacted 1@1 + 1@2 files => 20364 bytes
+2024/10/26-22:54:30.554 4468 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/26-22:54:30.555 4468 Delete type=2 #8
+2024/10/26-22:54:30.555 4468 Delete type=2 #10
+2024/10/26-22:54:30.556 1e6c Manual compaction at level-1 from '\x00\x0a\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 3097 : 0 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/26-22:54:30.556 1e6c Manual compaction at level-1 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|c:\\users\\micka\u00EBl\\onedrive\\bureau\\c#_\\b\\bluetooth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|solutionrelative:bluetooth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|c:\\users\\micka\u00EBl\\onedrive\\bureau\\c#_\\b\\bluetooth\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|solutionrelative:bluetooth\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|c:\\users\\micka\u00EBl\\onedrive\\bureau\\c#_\\b\\bluetooth\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|solutionrelative:bluetooth\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|c:\\users\\micka\u00EBl\\onedrive\\bureau\\c#_\\b\\bluetooth\\bluetooth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{207D24E0-7653-4325-AE2F-6E5FAAD49BEE}|Bluetooth\\Bluetooth.csproj|solutionrelative:bluetooth\\bluetooth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bluetooth.csproj",
+              "DocumentMoniker": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\Bluetooth.csproj",
+              "RelativeDocumentMoniker": "Bluetooth\\Bluetooth.csproj",
+              "ToolTip": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\Bluetooth.csproj",
+              "RelativeToolTip": "Bluetooth\\Bluetooth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T19:28:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Bluetooth\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\App.xaml.cs",
+              "RelativeToolTip": "Bluetooth\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:28:47.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bluetooth\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\MainWindow.xaml",
+              "RelativeToolTip": "Bluetooth\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T08:19:47.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bluetooth\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Micka\u00EBl\\OneDrive\\Bureau\\c#_\\b\\Bluetooth\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bluetooth\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwK4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:19:11.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
